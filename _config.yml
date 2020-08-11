@@ -1,6 +1,6 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
+name: Simplyzam - simple coding blog 
+description: this blog is for personal use
 destination: jekyllbuild
 url: simplyzam.github.io/
 baseurl: /

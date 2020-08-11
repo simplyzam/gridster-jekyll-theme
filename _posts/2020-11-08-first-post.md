@@ -1,6 +1,6 @@
 ---
 author: simplyzam
-title: Standard Post
+title: My first post about nothing
 featimg: 1.jpg
 tags: [text]
 category: [standard]
